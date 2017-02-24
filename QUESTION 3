@@ -1,0 +1,10 @@
+
+## Template
+#!/usr/bin/env python3
+
+# Name: <Eric Opoku Jhr>
+# Index number: <PS/ITC/14/0017>
+
+decimal_value = int(input("Please enter a value"))
+
+print('{0:b}'.format(decimal_value))                  
